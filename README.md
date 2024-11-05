@@ -6,4 +6,4 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=448741550394836144" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+img src= "/<iframe src="https://assets.pinterest.com/ext/embed.html?id=448741550394836144" height="295" width="345" frameborder="0" scrolling="no" ></iframe>"
