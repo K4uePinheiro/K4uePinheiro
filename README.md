@@ -6,4 +6,4 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
-<img align="center" height="35" with="40" src=" Deadpool Deadpool Heart GIF - Deadpool Deadpool heart Deadpool love - Descubre y comparte GIF.gif" />
+<div class="tenor-gif-embed" data-postid="2452932057031588323" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skull-skull-emoji-sus-smile-transparent-gif-2452932057031588323">Skull Skull Emoji Sticker</a>from <a href="https://tenor.com/search/skull-stickers">Skull Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
