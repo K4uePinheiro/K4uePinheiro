@@ -6,4 +6,9 @@
 - 😄 Pronomes: ELE/ELE
 - ⚡ Curiosidade: Sabia que os foguetes deixam a Terra a uma velocidade tão rápida que, se fossem na direção da Lua, poderiam chegar lá em apenas algumas horas? 🚀🌕
 
+  <div>
+    <a href="https://github.com/K4uePinheiro">
+  <img href="180em" src="https://github-readme-stats.vercel.app./api?username=K4uePinheiro&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/>
+  <img href="180em" src="https://github-readme-stats.vercel.app./api/top-langs/?username=K4uePinheiro&layout=compact&langs_count=168&theme=transparent"/>
+</div>
 
