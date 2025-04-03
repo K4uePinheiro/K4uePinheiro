@@ -7,9 +7,8 @@
 - 😄 Pronomes: ELE/ELE
 - ⚡ Curiosidade: Sabia que os foguetes deixam a Terra a uma velocidade tão rápida que, se fossem na direção da Lua, poderiam chegar lá em apenas algumas horas? 🚀🌕
 
-  <div>
-    <a href="https://github.com/K4uePinheiro">
-      <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app./api?username=K4uePinheiro&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/>
+ <div> <a href="https://github.com/K4uePinheiro">
+    <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app./api?username=K4uePinheiro&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/>
     <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app./api/top-langs/?username=K4uePinheiro&layout=compact&langs_count=168&theme=transparent"/>
 </div>
 
@@ -19,5 +18,12 @@
 <img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+<hr>
+
+<div>
+  <a href="mailto:kaue.g.pinheiro@aluno.senai.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%AA-pinheiro-5717092ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="-blank"></a>
+  <a href="https://www.instagram.com/kauxlsp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
