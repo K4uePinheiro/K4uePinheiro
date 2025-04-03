@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @K4uePinheiro
-- 👀 I’m interested in Gym, Computers, CORINTHIANS 
-- 🌱 I’m currently learning, I'm a student at SESI-SENAI, and I am currently studying Systems Analysis and Development. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+- 👋 Olá, eu sou Kaue Pinheiro
+- 👀 Meus gostos se baseiam em Informática, jogos e o CORINTHIANS
+- 🌱 Atualmente sou aluno do SESI/SENAI, e atualmente estou cursando Análise e Desenvolvimento de Sistemas...
+-Tenho o objetivo de me aprofundar na carreira da técnologia, cursando os mais diversos cursos para me tornar um profissional.
+- 💞️ Estou procurando colaborar em...
+- 😄 Pronomes: ELE/ELE
+- ⚡ Curiosidade: Sabia que os foguetes deixam a Terra a uma velocidade tão rápida que, se fossem na direção da Lua, poderiam chegar lá em apenas algumas horas? 🚀🌕
 
 
