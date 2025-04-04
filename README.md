@@ -31,6 +31,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/K4uepinheiro/K4uepinheiro/output/github-contribution-grid-snake.svg">
 </picture>
 
-![image alt].(https://github.com/K4uePinheiro/K4uePinheiro/blob/main/Tenor-unscreen%20(1).gif?raw=true).
+
+![image_url](https://github.com/K4uePinheiro/K4uePinheiro/blob/main/Tenor-unscreen%20(1).gif?raw=true)
 
 
