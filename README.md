@@ -15,6 +15,7 @@
 <img align="center" alt="kaue" height="40" wigth="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center" alt="kaue" height="40" wigth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
 <hr>
 
