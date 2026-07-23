@@ -27,6 +27,3 @@
 </picture>
 
 
-![image_url](https://github.com/K4uePinheiro/K4uePinheiro/blob/main/Tenor-unscreen%20(1).gif?raw=true)
-
-
