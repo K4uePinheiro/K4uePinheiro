@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,python,react,figma,mysql,&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,python,react,figma,mysql,git,linux,github&perline=9)](https://skillicons.dev)
 
 </div>
 <hr>
